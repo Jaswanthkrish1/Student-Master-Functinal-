@@ -1,5 +1,5 @@
 # Student-Master-Functinal-
-Task name:
+Task name: master
 
 You tell, I do
 
