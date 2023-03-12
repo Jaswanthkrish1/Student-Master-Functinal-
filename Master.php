@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html >
 <head>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -111,7 +111,6 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
                          <th>Student Given Oparator</th>
                          <th>Student Given Value2</th>
                          <th>Master Given Answer</th>
-
   </tr>
   <?php 
   
@@ -135,15 +134,10 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
                  $mycon->close();
   ?>
 
-                     
                     </table>
-                     
                  </div>
- 
                 </div>
           
-
-
 </div>
 </body>
 
@@ -172,7 +166,6 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
   background-color: #04AA6D;
   color: white;
 }
-
     .container{
         width: 90%;
     }
